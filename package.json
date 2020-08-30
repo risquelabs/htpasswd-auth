@@ -21,8 +21,8 @@
     "mocha": "*"
   },
   "dependencies": {
-    "apache-crypt": "^1.0.8",
-    "apache-md5": "^1.0.0",
-    "bcrypt": "^2.0.1"
+    "apache-crypt": "^1.2.4",
+    "apache-md5": "^1.1.5",
+    "bcrypt": "^5.0.0"
   }
 }
